@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/akashe-chorano-megher-kachakachi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Akashe Chorano Megher Kachakachi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akashe-chorano-megher-kachakachi/) |
+| **Get License** | [Official Music Licensing for Akashe Chorano Megher Kachakachi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akashe-chorano-megher-kachakachi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9dec569fe711d6cedd7c2397ddf9e63394bc01adb69d526350c36aab2c8f0e2f` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
